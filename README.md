@@ -1,1 +1,1 @@
-# SQL-Projetos
+Este projeto é uma modelagem de dados para um sistema de e-commerce, desenvolvido com o objetivo de gerenciar o processo de vendas, estoque, pedidos e entregas. O modelo de dados é estruturado para contemplar diversos aspectos importantes de um e-commerce, incluindo relacionamento entre clientes, produtos, fornecedores, pagamentos e status de entregas.
